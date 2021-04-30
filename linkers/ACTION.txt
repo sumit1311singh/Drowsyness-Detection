@@ -1,8 +1,0 @@
-<div class='animation'>
-    <details>
-      <summary>Animation</summary>
-      <p>
-        
-      </p>
-  </details>
-</div>
